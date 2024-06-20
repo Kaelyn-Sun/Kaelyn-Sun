@@ -4,4 +4,4 @@
 
 
 <img alt="Moomin" height="200" src="images/moomin.gif">
-
+<img alt="Moomin2" height="200" src="images/moomin2.gif">
